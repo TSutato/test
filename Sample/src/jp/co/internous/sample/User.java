@@ -13,7 +13,7 @@ public class User {
 		return fullName;
 	}
 	 /*16~17行目では「電話番号」を設定するための振る舞い（メソッド）を設定。*/
-    public void setTelephoeNo(String telephoneNo) {
+    public void setTelephoneNo(String telephoneNo) {
     	this.telephoneNo = telephoneNo;
     }
     /*20~21行目では 「電話番号」をシステムに開示するという振る舞い（メソッド）を設定。*/
