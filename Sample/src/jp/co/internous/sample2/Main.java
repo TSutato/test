@@ -6,7 +6,6 @@ public class Main {
 		// TODO 自動生成されたメソッド・スタブ
 		Person no1 = new Person ("山田太郎","日本");
 		no1.introduce( "おめでとう!");
-
 	}
 
 }

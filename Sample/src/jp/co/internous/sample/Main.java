@@ -1,5 +1,7 @@
 package jp.co.internous.sample;
 
+
+
 public class Main {
 
 	public static void main(String[] args) {
